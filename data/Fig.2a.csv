@@ -1,0 +1,26 @@
+V1,V2,V3,V4,V5
+Total predator response (322/75),0.1405,0.0574,0.2236,1
+Total parasitoid response (105/33),0.31,0.1594,0.4607,2
+Total predator-parasitoid response (19/7),0.3668,-0.0979,0.8316,3
+Total herbivore response (686/132),-0.4089,-0.4997,-0.3181,4
+Total crop response (392/105),0.1134,0.0524,0.1745,5
+NA,NA,NA,NA,NA
+Predator reproduction (221/66),0.1512,0.0617,0.2406,1
+Predator diversity (62/16),0.0244,-0.1615,0.2103,1
+Predator predation (39/12),0.2534,0.0458,0.4611,1
+NA,NA,NA,NA,NA
+Parasitoid growth (3/1),-0.0249,-0.2209,0.1712,2
+Parasitoid reproduction (52/21),0.3524,0.0964,0.6084,2
+Parasitoid diversity (14/2),0.0923,-0.0597,0.2443,2
+Parasitoid parasitism (36/19),0.4,0.2062,0.5938,2
+NA,NA,NA,NA,NA
+Predator-parasitoid reproduction (13/5),0.3561,-0.2732,0.9854,3
+Predator-parasitoid diversity (6/3),0.4043,-0.2902,1.0988,3
+NA,NA,NA,NA,NA
+Herbivore growth (1/1),-0.237,-1.1296,0.6556,4
+Herbivore reproduction (445/109),-0.3791,-0.4818,-0.2764,4
+Herbivore damage (239/48),-0.4998,-0.6551,-0.3446,4
+NA,NA,NA,NA,NA
+Crop growth (95/35),0.062,-0.0251,0.1491,5
+Crop reproduction (271/75),0.1376,0.0544,0.2208,5
+Crop quality (26/4),0.0304,-0.0279,0.0887,5
