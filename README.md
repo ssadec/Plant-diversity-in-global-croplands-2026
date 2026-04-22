@@ -1,1 +1,1 @@
-
+This is a computationally reproducible documents that contain the R code, verbal descriptions, and outputs. With this code all analyses in the paper can be reproduced, and the graphs can be remade. Code to calculate the effect size log ratio response(lnRR), to deal with pseudo-duplication of data and to model phylogenetic correction are provided.
